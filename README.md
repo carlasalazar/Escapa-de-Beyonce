@@ -22,7 +22,7 @@ Este proyecto fue desarrollado con:
 Sigue estos pasos para ejecutar el juego en tu máquina local:
 
 **Clona este repositorio**:
-git clone https://github.com/tu-usuario/escapa-de-beyonce.git
+git clone https://github.com/carlasalazar/Escapa-de-Beyonce.git
 
 **Navega al directorio del proyecto**:
 cd escapa-de-beyonce
